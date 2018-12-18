@@ -1,6 +1,6 @@
 ## 引言
 
-JeeSite 是一个 Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Spring MVC、Apache Shiro、MyBatis、Beetl、Bootstrap、AdminLTE）采用经典开发模式，让初学者能够更快的入门并投入到团队开发中去。在线代码生成功能，包括核心模块如：组织机构、角色用户、菜单及按钮授权、数据权限、系统参数、内容管理、工作流等。采用松耦合设计；界面无刷新，一键换肤；众多账号安全设置，密码策略；在线定时任务配置；支持集群，支持SAAS；支持多数据源。
+JeeSite 是一个 Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Spring MVC、Apache Shiro、MyBatis、Beetl、Bootstrap、AdminLTE），在线代码生成功能，包括核心模块如：组织机构、角色用户、菜单及按钮授权、数据权限、系统参数、内容管理、工作流等。采用松耦合设计；界面无刷新，一键换肤；众多账号安全设置，密码策略；在线定时任务配置；支持集群，支持SAAS；支持多数据源。
 
 JeeSite 快速开发平台的主要目的是能够让初级的研发人员快速的开发出复杂的业务功能（经典架构会的人多），让开发者注重专注业务，其余有平台来封装技术细节，降低技术难度，从而节省人力成本，缩短项目周期，提高软件安全质量。
 
@@ -16,7 +16,7 @@ JeeSite 自开源以来已被广大爱好者用到了企业、政府、医疗、
 
 * 主框架：Spring Boot 2.0、Spring Framework 5.0、Apache Shiro 1.4、J2Cache
 * 持久层：Apache MyBatis 3.4、Hibernate Validation 6.0、Alibaba Druid 1.1
-* 视图层：Spring MVC 5.0、Beetl 2.7 替换JSP、Bootstrap 3.3、AdminLTE 2.4
+* 视图层：Spring MVC 5.0、Beetl 2.7 替换JSP、Bootstrap 3.3、AdminLTE 2.4``__********__``
 * 前端组件：jQuery 1.12、jqGrid 4.7、layer 3.0、zTree 3.5、jquery-validation
 * 工具组件：Apache Commons、Logback 1.1、Jackson 2.8、POI 3.14、Quartz 2.2
 * 技术选型详情：<http://jeesite4.mydoc.io/?t=273599>
@@ -59,8 +59,8 @@ JeeSite 自开源以来已被广大爱好者用到了企业、政府、医疗、
 * 代码生成 / 快速入门 (Guide)：<http://jeesite4.mydoc.io/?t=316743>
 * 持久层 / 数据库操作 (MyBatis)：<http://jeesite4.mydoc.io/?t=267351>
 * 业务层 / 数据权限 (Service)：<http://jeesite4.mydoc.io/?t=267352>
-* 视图层 / 表单组件 (Beetl)：<http://jeesite4.mydoc.io/?t=267353>
-* 功能权限基础文档 (Shiro)：<http://jeesite4.mydoc.io/?t=298473>
+* 视图层 / 前端组件 (Beetl)：<http://jeesite4.mydoc.io/?t=267353>
+* 功能权限 / 基础 (Shiro)：<http://jeesite4.mydoc.io/?t=298473>
 * 常用JS类库API (jeesite.js)：<http://jeesite4.mydoc.io/?t=301473>
 * 数据表格API (DataGrid.js)：<http://jeesite4.mydoc.io/?t=301488>
 * 修改 (默认) 视图，新增主题：<http://jeesite4.mydoc.io/?t=267355>
